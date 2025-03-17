@@ -1,4 +1,5 @@
-- 👋 Hi, I'm @amiraifori
+- <img width="439" alt="Screenshot 2025-03-17 at 15 43 58" src="https://github.com/user-attachments/assets/75eca0bd-e7c5-4d34-9e72-da63eb6139cd" />
+👋 Hi, I'm @amiraifori
 - 👀 I'm interested in cybersecurity, IT audits, and compliance frameworks.
 - 🌱 I'm currently learning advanced cloud security techniques and threat analysis methodologies.
 - 💞️ I'm looking to collaborate on open-source security tools and compliance automation projects.
